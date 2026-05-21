@@ -8,4 +8,4 @@ Funciona como una librería pura e independiente de Java. Se encarga del verdade
 * **Abstracción:** Manejo estructurado de almacenes de certificados (KeyStores) y procesos de firma digital.
 
 ## 🚀 Implementación Práctica
-Para ver un caso real de uso y cómo exponer los componentes de esta librería a través de un ecosistema de microservicios, revisa el proyecto **[FirmaDigREST](https://github.com/TU_USUARIO/FirmaDigREST)**.
+Para ver un caso real de uso y cómo exponer los componentes de esta librería a través de un ecosistema de microservicios, revisa el proyecto **[FirmaDigREST](https://github.com/lcgrana2/FirmaDigREST)**.
